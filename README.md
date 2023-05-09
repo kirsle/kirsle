@@ -2,7 +2,7 @@
 
 Welcome to my GitHub page! I'm Noah, a full stack software engineer (and all around computer geek) who programs in a variety of languages and domains. I had taught myself to code since I was a young teenager and my first "real" programming language was Perl, which I picked up for programming chatbots of all things. Take a look around my GitHub page (and some linked organizations, below) to see what I've been up to.
 
-Some of my open source personal projects are placed under some GitHub organizations I created to keep some related projects grouped together:
+I'm a big proponent of open source software and have published modules into several programming language repositories including Perl ([CPAN](https://metacpan.org/author/KIRSLE)), Python ([PyPI](https://pypi.org/user/kirsle/)) and Node.js ([npm](https://www.npmjs.com/~kirsle)). I have a lot of these projects on GitHub alongside other random apps and toys. Some of my open source projects are placed under some GitHub organizations I created to keep some related projects grouped together:
 
 * [@aichaos](https://github.com/aichaos) houses most of my chatbot related projects
 * [@SketchyMaze](https://github.com/SketchyMaze) hosts a mirror of repos for my videogame project
@@ -29,17 +29,3 @@ The game is a manifestation of my own childhood imagination: as a kid I used to 
 * Open source Go UI toolkit supporting desktops (SDL2) and WebAssembly: [SketchyMaze/ui](https://github.com/SketchyMaze/ui)
 * Other game repos mirrored onto GitHub: [@SketchyMaze](https://github.com/SketchyMaze)
 
-<!--
-**kirsle/kirsle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
